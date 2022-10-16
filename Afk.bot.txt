@@ -1,0 +1,5 @@
+{ 
+            "ip":"Purusharth13.aternos.me",
+            "port":"18422",
+            "name":"Aternos"
+}
